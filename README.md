@@ -1,0 +1,1 @@
+# Site Health Report Example
